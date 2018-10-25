@@ -1,5 +1,5 @@
 # Getting started with Android development
-This is the code repository for [Getting started with Android development](https://www.packtpub.com/networking-and-servers/hands-penetration-testing-metasploit-video?utm_source=github&utm_medium=repository&utm_campaign=9781789610512), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for Getting started with Android development, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Welcome to the Android Studio Tricks and Tips course. This course will help you become a faster and more proficient developer using Android Studio.
 You’ll learn everything from working faster in the editor, navigating your projects more effectively and searching through directories and files faster. By the end of this course, you’ll be a faster Android developer with Android Studio.
@@ -19,9 +19,6 @@ You’ll learn everything from working faster in the editor, navigating your pro
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for anybody who wants to master Android Studio and become a faster and more proficient Android developer.
-### Technical Requirements
-This course has the following software requirements:<br/>
-                         
 
 ## Related Products
 * [Getting Started with Drupal 8 [Video]](https://www.packtpub.com/networking-and-servers/hands-penetration-testing-metasploit-video?utm_source=github&utm_medium=repository&utm_campaign=9781789610512)
